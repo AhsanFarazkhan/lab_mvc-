@@ -118,3 +118,5 @@ This project is open-source and available under the MIT License.
 
 Contact
 For any questions or feedback, please feel free to reach out via email or open an issue on the repository.
+
+farazahsan357@gmail.com
